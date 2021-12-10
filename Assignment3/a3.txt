@@ -1,0 +1,87 @@
+----------------------------------------------------------------------------------------------
+Question 1 - a3p1
+
+        Based on the information given, we come up with the following equation.
+
+            R =  p*a  + b (mod m) ----- Formula
+            6 =  52*a + b (mod 71) -- Eq 1
+            51 = 20*a + b (mod 71) -- Eq 2
+            38 = 4*a  + b (mod 71) -- Eq 3
+
+        Rewrite Eq 3 as the following:
+            b = 38 - 4*a (mod 71) -- Eq 4 (rewritten Eq 3)
+
+        Use equation 1 to solve:
+            6 =  52*a + b (mod 71)-- Substitube equation 4 here
+            6 =  52*a + 38 - 4*a (mod 71)
+            -32 = 48*a (mod 71) -- We have to get a whole number for "a"
+            39/48 = a
+            (39 + (15*71))/48 = a
+
+            23 = a
+
+        Use this value to solve for b from equation 4
+            b = 38 - 4*a (mod 71)
+            b = 38 - 4*(23) (mod 71)
+            b = -54 (mod 71)
+            b = 17
+
+        Check the solution with the un-used equation, equation 2
+            51 = 20*a + b (mod 71)
+            = 20*23 + 17 (mod 71)
+            = 477 (mod 71)
+            = 51             --- LHS = RHS -- Therefore the solution checks out. 
+
+        THEREFORE, THE KEYS: a = 23 and b = 17
+
+
+--------------------------------------------------------------------------------------------
+Question 3 - a3p4
+
+		Based on the information given, we come up with the following equation.
+			R(i+1) = Ri*a + b  (mod m) ---- Formula
+				23 = R0*a + b  (mod 475) -- Eq 1
+				20 = 23*a + b  (mod 475) -- Eq 2
+			   436 = 20*a + b  (mod 475) -- Eq 3
+		
+		Rewrite Eq 3 as the following:
+			b = 436 - 20*a  (mod 475) -- Eq 4 (rewritten Eq 3)
+		
+		Use equation 2 to solve:
+			20 = 23*a + b  (mod 475)
+			20 - b = 23*a  (mod 475)
+			20 - 436 + 20*a = 23*a  (mod 475)  --- substitute Eq 4 here
+			-416 = 3*a  (mod 475)
+			-416+(472*2) = 3*a  (mod 475)
+			534 = 3*a  (mod 475)
+			a = 178
+		
+		Use this value to solve for b from equation 4
+			b = 436 - 20*a  (mod 475)
+			b = 436 - 20*(178) (mod 475)
+			b = -3124 (mod 475)
+			b = -3124+(475*7) (mod 475)
+			b = 201
+
+		Using a = 178, b = 201 and Equation 1, solve for R0.
+			23 = R0*a + b  (mod 475)
+			23 = R0*(178) + 201  (mod 475)
+			23 - 201 = R0*(178)  (mod 475)
+			-178 = R0*(178)  (mod 475)
+			R0 = -1 + (475)  (mod 475)
+			R0 = 474
+
+
+		Now, using a = 178, b = 201 and R3, solve for R4.
+			R4 = R3*a + b  (mod m)
+			R4 = 436*(178) + 201  (mod 475)
+			R4 = 77809  (mod 475)
+			R4 = 77809 - (475*163)   (mod 475)
+			R4 = 384
+			
+
+		Therefore the values obtained from above for a, b, R0 and R4 is the following:
+			a = 178
+			b = 201
+			R0 = 474
+			R4 = 384

@@ -1,0 +1,1 @@
+I, Shridhar Patel, have not collaborated with any person in this course or outside this course. I soley used my previous Python knowledge and Math 222 (cryptography). I have not consulted to any websites either. 
