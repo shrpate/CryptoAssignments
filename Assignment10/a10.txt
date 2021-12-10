@@ -1,0 +1,276 @@
+Question 3
+
+Method 1 - SSDs:
+texts/ciphertext_bg_0.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_1.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_2.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_3.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_4.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_5.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_6.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_7.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_8.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_9.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_de_0.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_1.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_2.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_3.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_4.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_5.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_6.txt texts/sample_nl.txtScore: 0
+texts/ciphertext_de_7.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_8.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_9.txt texts/sample_de.txtScore: 1
+texts/ciphertext_el_0.txt texts/sample_ru.txtScore: 0
+texts/ciphertext_el_1.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_2.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_3.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_4.txt texts/sample_ru.txtScore: 0
+texts/ciphertext_el_5.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_6.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_7.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_8.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_9.txt texts/sample_ru.txtScore: 0
+texts/ciphertext_en_0.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_1.txt texts/sample_bg.txtScore: 0
+texts/ciphertext_en_2.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_3.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_4.txt texts/sample_es.txtScore: 0
+texts/ciphertext_en_5.txt texts/sample_es.txtScore: 0
+texts/ciphertext_en_6.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_7.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_8.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_9.txt texts/sample_en.txtScore: 1
+texts/ciphertext_es_0.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_1.txt texts/sample_it.txtScore: 0
+texts/ciphertext_es_2.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_3.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_4.txt texts/sample_fr.txtScore: 0
+texts/ciphertext_es_5.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_6.txt texts/sample_bg.txtScore: 0
+texts/ciphertext_es_7.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_8.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_9.txt texts/sample_es.txtScore: 1
+texts/ciphertext_fr_0.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_1.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_2.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_3.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_4.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_5.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_6.txt texts/sample_es.txtScore: 0
+texts/ciphertext_fr_7.txt texts/sample_es.txtScore: 0
+texts/ciphertext_fr_8.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_9.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_it_0.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_1.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_2.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_3.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_4.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_5.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_6.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_7.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_8.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_9.txt texts/sample_it.txtScore: 1
+texts/ciphertext_nl_0.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_1.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_2.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_3.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_4.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_5.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_6.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_7.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_8.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_9.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_pl_0.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_1.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_2.txt texts/sample_el.txtScore: 0
+texts/ciphertext_pl_3.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_4.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_5.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_6.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_7.txt texts/sample_ru.txtScore: 0
+texts/ciphertext_pl_8.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_9.txt texts/sample_ru.txtScore: 0
+texts/ciphertext_ru_0.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_1.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_2.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_3.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_4.txt texts/sample_bg.txtScore: 0
+texts/ciphertext_ru_5.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_6.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_7.txt texts/sample_en.txtScore: 0
+texts/ciphertext_ru_8.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_9.txt texts/sample_bg.txtScore: 0
+
+Therefore, counting all the 1's we get accuracy of 82%
+
+--------------------------------------------------------------
+
+Method 2 - DPD:
+texts/ciphertext_bg_0.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_1.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_2.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_3.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_4.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_5.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_6.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_7.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_8.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_bg_9.txt texts/sample_bg.txtScore: 1
+texts/ciphertext_de_0.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_1.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_2.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_3.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_4.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_5.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_6.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_7.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_8.txt texts/sample_de.txtScore: 1
+texts/ciphertext_de_9.txt texts/sample_de.txtScore: 1
+texts/ciphertext_el_0.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_1.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_2.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_3.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_4.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_5.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_6.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_7.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_8.txt texts/sample_el.txtScore: 1
+texts/ciphertext_el_9.txt texts/sample_el.txtScore: 1
+texts/ciphertext_en_0.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_1.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_2.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_3.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_4.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_5.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_6.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_7.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_8.txt texts/sample_en.txtScore: 1
+texts/ciphertext_en_9.txt texts/sample_nl.txtScore: 0
+texts/ciphertext_es_0.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_1.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_2.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_3.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_4.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_5.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_6.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_7.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_8.txt texts/sample_es.txtScore: 1
+texts/ciphertext_es_9.txt texts/sample_es.txtScore: 1
+texts/ciphertext_fr_0.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_1.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_2.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_3.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_4.txt texts/sample_es.txtScore: 0
+texts/ciphertext_fr_5.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_6.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_7.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_8.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_fr_9.txt texts/sample_fr.txtScore: 1
+texts/ciphertext_it_0.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_1.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_2.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_3.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_4.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_5.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_6.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_7.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_8.txt texts/sample_it.txtScore: 1
+texts/ciphertext_it_9.txt texts/sample_it.txtScore: 1
+texts/ciphertext_nl_0.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_1.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_2.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_3.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_4.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_5.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_6.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_7.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_8.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_nl_9.txt texts/sample_nl.txtScore: 1
+texts/ciphertext_pl_0.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_1.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_2.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_3.txt texts/sample_ru.txtScore: 0
+texts/ciphertext_pl_4.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_5.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_6.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_7.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_8.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_pl_9.txt texts/sample_pl.txtScore: 1
+texts/ciphertext_ru_0.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_1.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_2.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_3.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_4.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_5.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_6.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_7.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_8.txt texts/sample_ru.txtScore: 1
+texts/ciphertext_ru_9.txt texts/sample_pl.txtScore: 0
+
+Therefore, counting all the 1's we get accuracy of 96%
+
+We can clearly see the Method 2 of DPD is working a lot better than the 
+Method 1 of SSDs. DPD has a very high accuracy of 96% where SSDs has
+reletively lower accuracy of 82%.
+
+--------------------------------------------------------------------------------------
+
+Question 4
+
+Method 1 - SSDs:
+		Bu   Du   En   Fr   Ge   Gr   It   Po   Ru   Sp
+
+Bulgarian	10   0    0    0    0    0    0    0    0    0
+
+Dutch		0    10   0    0    0    0    0    0    0    0
+
+English		1    0    7    0    0    0    0    0    0    2
+
+French		0    0    0    8    0    0    0    0    0    2
+
+German		0    1    0    0    9    0    0    0    0    0
+
+Greek		0    0    0    0    0    7    0    0    3    0
+
+Italian		0    0    0    0    0    0    10   0    0    0
+
+Polish		0    0    0    0    0    1    0    7    2    0
+
+Russian		2    0    1    0    0    0    0    0    7    0
+
+Spanish		1    0    0    1    0    0    1    0    0    7
+
+
+Method 2 - DPD:
+		Bu   Du   En   Fr   Ge   Gr   It   Po   Ru   Sp
+
+Bulgarian	10   0    0    0    0    0    0    0    0    0
+
+Dutch		0    10   0    0    0    0    0    0    0    0
+
+English		0    1    9    0    0    0    0    0    0    0
+
+French		0    0    0    9    0    0    0    0    0    1
+
+German		0    0    0    0    10   0    0    0    0    0
+
+Greek		0    0    0    0    0    10   0    0    0    0
+
+Italian		0    0    0    0    0    0    10   0    0    0
+
+Polish		0    0    0    0    0    0    0    9    1    0
+
+Russian		0    0    0    0    0    0    0    1    9    0
+
+Spanish		0    0    0    0    0    0    0    0    0    10
+
+
+There are certainly many patterns in the matrices. For example, we
+can observe that Polish is not mistaken by any other languages for
+itself. We also observe that French and Spanish are generally confused
+for each other as they are similar to each other. We can see
+the similarities in Russina and Greek as well. We do not see a very
+good score for English and that is because English comes from many
+languages like French, Bulgarian, Dutch, Spanish etc and in the method 
+1, we clearly see that.
